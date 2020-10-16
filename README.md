@@ -1,1 +1,1 @@
-# Basic--Calculator-Vue
+# Basic Calculator developed with Vue
